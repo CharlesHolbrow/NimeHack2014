@@ -1,0 +1,16 @@
+{
+  "name": "NimeHack2014",
+  "version": "0.0.0",
+  "description": "Simple Instrument for Nime Hack Day 2014 in London",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readme": "Readme.md",
+  "dependencies": {
+    "express": "~4.4.5"
+  }
+}
